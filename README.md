@@ -6,7 +6,7 @@ This GitHub Pages site hosts ULTRATEK’s Ambassador Sign-Up portal—where FUTA
 ---
 
 ## 🔗 Live Site
-[https://ultratek-games.github.io/ambassadors](https://ultratek-games.github.io/ambassadors)
+[https://ultratek-hub.github.io/ambassadors](https://ultratek-hub.github.io/ambassadors)
 
 ---
 
@@ -42,7 +42,7 @@ ultratek-ambassadors/ ├── index.html
 1. Push all files to your GitHub repo  
 2. Go to **Settings > Pages**  
 3. Set source to `main` branch, `/root`  
-4. Your site will be live at `https://ultratek-games.github.io/ultratek-ambassadors`
+4. Your site will be live at `https://ultratek-hub.github.io/ultratek-ambassadors`
 
 ---
 
